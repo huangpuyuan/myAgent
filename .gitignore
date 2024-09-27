@@ -1,0 +1,23 @@
+# 忽略日志文件夹
+logs/
+
+# 忽略临时文件夹
+temp/
+
+# 忽略构建文件夹
+build/
+
+# 忽略虚拟环境文件夹
+.venv/
+
+#忽略所有.env文件
+.env
+
+# 忽略所有 .log 文件
+*.log
+
+# 忽略所有 .tmp 文件
+*.tmp
+
+# 忽略所有 .tmp 文件
+config.ipynb
